@@ -1,0 +1,36 @@
+Return-Path: man@domain.ru
+Received: from zimbra.domain.local (LHLO mail.domain.ru) (10.12.12.12) by
+ zimbra.flag_is_you_are_find_me.local with LMTP; Thu, 8 Dec 2022 20:58:59 +0300 (MSK)
+Received: from mail.domain.ru (localhost [127.0.0.1])
+	by mail.domain.ru (Postfix) with ESMTPS id 637D91DE630
+	for <man@domain.ru>; Thu,  8 Dec 2022 20:58:59 +0300 (MSK)
+Received: from mail.domain.ru (localhost [127.0.0.1])
+	by mail.domain.ru (Postfix) with ESMTPS id 4E7561DE6D0
+	for <man@domain.ru>; Thu,  8 Dec 2022 20:58:59 +0300 (MSK)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.domain.ru 4E7561DE6D0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domain.ru;
+	s=2F858086-AD9E-11E7-8616-37B059EAF666; t=1670522339;
+	bh=dfhdKJgFxcaaNpKb7kKz7LkpGMZzuuhgoAGpI3Go6MM=;
+	h=From:To:Subject:Date:Message-ID:Content-Type:
+	 Content-Transfer-Encoding;
+	b=OP9AkyTG5556kWa4444CVCODjIbzLhd81edpwC7Xe3UEIS1YPLo9mw3maC0tr8Oyz
+	 E45pruy333Wdaxi0JaF4544448e0pi4mehAqmy8RlVR803t6pO0pNTvx1aZ4k5arzu
+	 hXNywUupMRuq444Ms8RR3ns/fZKx+0V5zABv333I=
+From: <man@domain.ru>
+To: <other-man@domain.ru>
+Subject: =?utf-8?B?0J/QviDRhNC70LDQs9GD?=
+Date: Thu, 8 Dec 2022 20:58:59 +0300
+Message-ID: <216a01d90b2e$bf724b00$3e56e100$@domain.ru>
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+Thread-Index: AdkLLrpBdXSifyYAQEG1ZdRZAp46LA==
+Content-Language: ru
+
+0J/RgNC40LLQtdGCLCDQtNGA0YPQsy4gDQrQpdC+0YLQtdC7INGC0LXQsdC1INC/0LXRgNC10LTQ
+sNGC0Ywg0YTQu9Cw0LMsINC90L4g0YfRgtC+LdGC0L4g0LfQsNCx0YvQuywg0LPQtNC1INC10LPQ
+viDRgdC+0YXRgNCw0L3QuNC7LiDQotGLINC90LUg0LfQvdCw0LXRiNGMLCDRgyDRgtC10LHRjyDQ
+tdCz0L4g0L3QtdGCINGB0LvRg9GH0LDQtdC8PyDQnNC+0LbQtdGCINCx0YvRgtGMINC/0L7QvNC9
+0LjRiNGMPyANCtCX0L3QsNGOINGC0L7Qu9GM0LrQviwg0YfRgtC+INC+0L0g0L3QsNGH0LjQvdCw
+0LvRgdGPINC90LAgYXJjdGZ7Li4uDQrQn9C+0LzQvtCz0Lgg0L/QvtC20LDQu9GD0LnRgdGC0LAh
+DQo=

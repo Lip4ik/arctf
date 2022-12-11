@@ -4,5 +4,5 @@
 Отсортируем пакеты по размеру и получим, что по протоколу FTP-DATA отправляются весьма большие файлы  
 Проследуем по протоколу FTP и увидем по сигнатуре JFIF что передается jpg картинка  
 Экспортируем объект по протоколу FTP-DATA и получим наш флаг  
-![alt text]()  
+![flag](https://github.com/Lip4ik/arctf/blob/main/forensic/%D0%90%D0%BA%D1%83%D0%BB%D0%B0%20%D0%B2%20%D1%82%D0%B0%D0%BD%D0%BA%D0%B5/solve/flag.jpg)  
 Наш флаг arctf{u_are_Hero}  

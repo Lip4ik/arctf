@@ -2,6 +2,6 @@
 Получаем электронное сообщение, нам нужно узнать кто его отправил  
 В электронном сообщении видем ip-адрес отправителя 45.153.231.111  
 Перейдем на него, получим флаг 
-![strings](https://github.com/Lip4ik/arctf/blob/main/misc/%D0%A1%D1%82%D0%B5%D0%B3%D0%B0%D0%BD%D0%BE%D0%BF%D0%BE%D0%BD%D0%B3/solve/data.jpg)  
+![strings](https://github.com/Lip4ik/arctf/blob/main/osint/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/solve/site.png)  
 Наш флаг arctf{9c82160dc09ab995484a5e09afab7e69275dc03e}  
 

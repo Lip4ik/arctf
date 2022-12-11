@@ -5,7 +5,7 @@
 Воспользуемся утилитой john-the-ripper  
 `zip2john Forensics400_ctf.zip > zip.hash`  
 Получим хэш пароля от этого архива и сломаем его  
-`john zip.hash`
+`john zip.hash`  
 И получим пароль "ctf" от файла MFT  
 Одно из самых главных правил ctf, если есть файл его нужно strings-нуть  
 `strings db`  
